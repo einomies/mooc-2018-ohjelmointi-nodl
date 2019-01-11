@@ -1,0 +1,5 @@
+Metodit ja konstruktorit
+voivat heitt‰‰ poikkeuksia.
+Heitett‰vi‰ poikkeuksia on karkeasti ottaen kahdenlaisia.
+On poikkeuksia jotka on pakko k‰sitell‰, ja on poikkeuksia joita ei ole pakko k‰sitell‰.
+Poikkeukset k‰sitell‰‰n joko try-catch -lohkossa, tai heitt‰m‰ll‰ ne ulos metodista.
